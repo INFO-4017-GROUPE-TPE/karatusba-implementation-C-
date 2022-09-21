@@ -6,8 +6,8 @@
     
 # to launch
   g++ the_ouput_file_name
-  for example to launche
+  for example to launche  in linux Os
   
-  ./Strassen in linux Os
-  in window os just launch the 
+  ./Strassen
+  in window os just launch the executable file
   
